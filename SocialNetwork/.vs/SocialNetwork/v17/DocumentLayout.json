@@ -3,20 +3,60 @@
   "WorkspaceRootPath": "C:\\Users\\Cyber_User\\Documents\\magshimim\\Grade11\\Programing C\u002B\u002B\\lesson2\\Magshimim-lesson2\\SocialNetwork\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AD7A4FEB-ABC3-40CC-AD4A-9ED7B878D4B7}|SocialNetwork.vcxproj|C:\\Users\\Cyber_User\\Documents\\magshimim\\Grade11\\Programing C\u002B\u002B\\lesson2\\Magshimim-lesson2\\SocialNetwork\\Page.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{AD7A4FEB-ABC3-40CC-AD4A-9ED7B878D4B7}|SocialNetwork.vcxproj|solutionrelative:Page.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{AD7A4FEB-ABC3-40CC-AD4A-9ED7B878D4B7}|SocialNetwork.vcxproj|C:\\Users\\Cyber_User\\Documents\\magshimim\\Grade11\\Programing C\u002B\u002B\\lesson2\\Magshimim-lesson2\\SocialNetwork\\SocialNetwork.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AD7A4FEB-ABC3-40CC-AD4A-9ED7B878D4B7}|SocialNetwork.vcxproj|solutionrelative:SocialNetwork.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD7A4FEB-ABC3-40CC-AD4A-9ED7B878D4B7}|SocialNetwork.vcxproj|C:\\Users\\Cyber_User\\Documents\\magshimim\\Grade11\\Programing C\u002B\u002B\\lesson2\\Magshimim-lesson2\\SocialNetwork\\test3Profile.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AD7A4FEB-ABC3-40CC-AD4A-9ED7B878D4B7}|SocialNetwork.vcxproj|solutionrelative:test3Profile.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD7A4FEB-ABC3-40CC-AD4A-9ED7B878D4B7}|SocialNetwork.vcxproj|C:\\Users\\Cyber_User\\Documents\\magshimim\\Grade11\\Programing C\u002B\u002B\\lesson2\\Magshimim-lesson2\\SocialNetwork\\Device.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AD7A4FEB-ABC3-40CC-AD4A-9ED7B878D4B7}|SocialNetwork.vcxproj|solutionrelative:Device.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD7A4FEB-ABC3-40CC-AD4A-9ED7B878D4B7}|SocialNetwork.vcxproj|C:\\Users\\Cyber_User\\Documents\\magshimim\\Grade11\\Programing C\u002B\u002B\\lesson2\\Magshimim-lesson2\\SocialNetwork\\ProfileList.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AD7A4FEB-ABC3-40CC-AD4A-9ED7B878D4B7}|SocialNetwork.vcxproj|solutionrelative:ProfileList.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD7A4FEB-ABC3-40CC-AD4A-9ED7B878D4B7}|SocialNetwork.vcxproj|C:\\Users\\Cyber_User\\Documents\\magshimim\\Grade11\\Programing C\u002B\u002B\\lesson2\\Magshimim-lesson2\\SocialNetwork\\SocialNetwork.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AD7A4FEB-ABC3-40CC-AD4A-9ED7B878D4B7}|SocialNetwork.vcxproj|solutionrelative:SocialNetwork.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD7A4FEB-ABC3-40CC-AD4A-9ED7B878D4B7}|SocialNetwork.vcxproj|C:\\Users\\Cyber_User\\Documents\\magshimim\\Grade11\\Programing C\u002B\u002B\\lesson2\\Magshimim-lesson2\\SocialNetwork\\ProfileList.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AD7A4FEB-ABC3-40CC-AD4A-9ED7B878D4B7}|SocialNetwork.vcxproj|solutionrelative:ProfileList.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AD7A4FEB-ABC3-40CC-AD4A-9ED7B878D4B7}|SocialNetwork.vcxproj|C:\\Users\\Cyber_User\\Documents\\magshimim\\Grade11\\Programing C\u002B\u002B\\lesson2\\Magshimim-lesson2\\SocialNetwork\\Profile.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{AD7A4FEB-ABC3-40CC-AD4A-9ED7B878D4B7}|SocialNetwork.vcxproj|solutionrelative:Profile.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{AD7A4FEB-ABC3-40CC-AD4A-9ED7B878D4B7}|SocialNetwork.vcxproj|C:\\Users\\Cyber_User\\Documents\\magshimim\\Grade11\\Programing C\u002B\u002B\\lesson2\\Magshimim-lesson2\\SocialNetwork\\DeviceList.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AD7A4FEB-ABC3-40CC-AD4A-9ED7B878D4B7}|SocialNetwork.vcxproj|solutionrelative:DeviceList.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD7A4FEB-ABC3-40CC-AD4A-9ED7B878D4B7}|SocialNetwork.vcxproj|C:\\Users\\Cyber_User\\Documents\\magshimim\\Grade11\\Programing C\u002B\u002B\\lesson2\\Magshimim-lesson2\\SocialNetwork\\UserList.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AD7A4FEB-ABC3-40CC-AD4A-9ED7B878D4B7}|SocialNetwork.vcxproj|solutionrelative:UserList.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{AD7A4FEB-ABC3-40CC-AD4A-9ED7B878D4B7}|SocialNetwork.vcxproj|C:\\Users\\Cyber_User\\Documents\\magshimim\\Grade11\\Programing C\u002B\u002B\\lesson2\\Magshimim-lesson2\\SocialNetwork\\Profile.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{AD7A4FEB-ABC3-40CC-AD4A-9ED7B878D4B7}|SocialNetwork.vcxproj|solutionrelative:Profile.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AD7A4FEB-ABC3-40CC-AD4A-9ED7B878D4B7}|SocialNetwork.vcxproj|C:\\Users\\Cyber_User\\Documents\\magshimim\\Grade11\\Programing C\u002B\u002B\\lesson2\\Magshimim-lesson2\\SocialNetwork\\test3Profile.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{AD7A4FEB-ABC3-40CC-AD4A-9ED7B878D4B7}|SocialNetwork.vcxproj|solutionrelative:test3Profile.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{AD7A4FEB-ABC3-40CC-AD4A-9ED7B878D4B7}|SocialNetwork.vcxproj|C:\\Users\\Cyber_User\\Documents\\magshimim\\Grade11\\Programing C\u002B\u002B\\lesson2\\Magshimim-lesson2\\SocialNetwork\\Device.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AD7A4FEB-ABC3-40CC-AD4A-9ED7B878D4B7}|SocialNetwork.vcxproj|solutionrelative:Device.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD7A4FEB-ABC3-40CC-AD4A-9ED7B878D4B7}|SocialNetwork.vcxproj|C:\\Users\\Cyber_User\\Documents\\magshimim\\Grade11\\Programing C\u002B\u002B\\lesson2\\Magshimim-lesson2\\SocialNetwork\\DeviceList.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AD7A4FEB-ABC3-40CC-AD4A-9ED7B878D4B7}|SocialNetwork.vcxproj|solutionrelative:DeviceList.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD7A4FEB-ABC3-40CC-AD4A-9ED7B878D4B7}|SocialNetwork.vcxproj|C:\\Users\\Cyber_User\\Documents\\magshimim\\Grade11\\Programing C\u002B\u002B\\lesson2\\Magshimim-lesson2\\SocialNetwork\\Page.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AD7A4FEB-ABC3-40CC-AD4A-9ED7B878D4B7}|SocialNetwork.vcxproj|solutionrelative:Page.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD7A4FEB-ABC3-40CC-AD4A-9ED7B878D4B7}|SocialNetwork.vcxproj|C:\\Users\\Cyber_User\\Documents\\magshimim\\Grade11\\Programing C\u002B\u002B\\lesson2\\Magshimim-lesson2\\SocialNetwork\\User.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AD7A4FEB-ABC3-40CC-AD4A-9ED7B878D4B7}|SocialNetwork.vcxproj|solutionrelative:User.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AD7A4FEB-ABC3-40CC-AD4A-9ED7B878D4B7}|SocialNetwork.vcxproj|C:\\Users\\Cyber_User\\Documents\\magshimim\\Grade11\\Programing C\u002B\u002B\\lesson2\\Magshimim-lesson2\\SocialNetwork\\User.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -27,32 +67,8 @@
       "RelativeMoniker": "D:0:0:{AD7A4FEB-ABC3-40CC-AD4A-9ED7B878D4B7}|SocialNetwork.vcxproj|solutionrelative:UserList.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AD7A4FEB-ABC3-40CC-AD4A-9ED7B878D4B7}|SocialNetwork.vcxproj|C:\\Users\\Cyber_User\\Documents\\magshimim\\Grade11\\Programing C\u002B\u002B\\lesson2\\Magshimim-lesson2\\SocialNetwork\\UserList.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{AD7A4FEB-ABC3-40CC-AD4A-9ED7B878D4B7}|SocialNetwork.vcxproj|solutionrelative:UserList.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AD7A4FEB-ABC3-40CC-AD4A-9ED7B878D4B7}|SocialNetwork.vcxproj|C:\\Users\\Cyber_User\\Documents\\magshimim\\Grade11\\Programing C\u002B\u002B\\lesson2\\Magshimim-lesson2\\SocialNetwork\\DeviceList.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{AD7A4FEB-ABC3-40CC-AD4A-9ED7B878D4B7}|SocialNetwork.vcxproj|solutionrelative:DeviceList.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AD7A4FEB-ABC3-40CC-AD4A-9ED7B878D4B7}|SocialNetwork.vcxproj|C:\\Users\\Cyber_User\\Documents\\magshimim\\Grade11\\Programing C\u002B\u002B\\lesson2\\Magshimim-lesson2\\SocialNetwork\\User.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{AD7A4FEB-ABC3-40CC-AD4A-9ED7B878D4B7}|SocialNetwork.vcxproj|solutionrelative:User.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{AD7A4FEB-ABC3-40CC-AD4A-9ED7B878D4B7}|SocialNetwork.vcxproj|C:\\Users\\Cyber_User\\Documents\\magshimim\\Grade11\\Programing C\u002B\u002B\\lesson2\\Magshimim-lesson2\\SocialNetwork\\Page.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{AD7A4FEB-ABC3-40CC-AD4A-9ED7B878D4B7}|SocialNetwork.vcxproj|solutionrelative:Page.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AD7A4FEB-ABC3-40CC-AD4A-9ED7B878D4B7}|SocialNetwork.vcxproj|C:\\Users\\Cyber_User\\Documents\\magshimim\\Grade11\\Programing C\u002B\u002B\\lesson2\\Magshimim-lesson2\\SocialNetwork\\DeviceList.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{AD7A4FEB-ABC3-40CC-AD4A-9ED7B878D4B7}|SocialNetwork.vcxproj|solutionrelative:DeviceList.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AD7A4FEB-ABC3-40CC-AD4A-9ED7B878D4B7}|SocialNetwork.vcxproj|C:\\Users\\Cyber_User\\Documents\\magshimim\\Grade11\\Programing C\u002B\u002B\\lesson2\\Magshimim-lesson2\\SocialNetwork\\Device.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{AD7A4FEB-ABC3-40CC-AD4A-9ED7B878D4B7}|SocialNetwork.vcxproj|solutionrelative:Device.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AD7A4FEB-ABC3-40CC-AD4A-9ED7B878D4B7}|SocialNetwork.vcxproj|C:\\Users\\Cyber_User\\Documents\\magshimim\\Grade11\\Programing C\u002B\u002B\\lesson2\\Magshimim-lesson2\\SocialNetwork\\Device.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{AD7A4FEB-ABC3-40CC-AD4A-9ED7B878D4B7}|SocialNetwork.vcxproj|solutionrelative:Device.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -62,37 +78,89 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
+              "Title": "ProfileList.cpp",
+              "DocumentMoniker": "C:\\Users\\Cyber_User\\Documents\\magshimim\\Grade11\\Programing C\u002B\u002B\\lesson2\\Magshimim-lesson2\\SocialNetwork\\ProfileList.cpp",
+              "RelativeDocumentMoniker": "ProfileList.cpp",
+              "ToolTip": "C:\\Users\\Cyber_User\\Documents\\magshimim\\Grade11\\Programing C\u002B\u002B\\lesson2\\Magshimim-lesson2\\SocialNetwork\\ProfileList.cpp",
+              "RelativeToolTip": "ProfileList.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-29T20:11:09.758Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProfileList.h",
+              "DocumentMoniker": "C:\\Users\\Cyber_User\\Documents\\magshimim\\Grade11\\Programing C\u002B\u002B\\lesson2\\Magshimim-lesson2\\SocialNetwork\\ProfileList.h",
+              "RelativeDocumentMoniker": "ProfileList.h",
+              "ToolTip": "C:\\Users\\Cyber_User\\Documents\\magshimim\\Grade11\\Programing C\u002B\u002B\\lesson2\\Magshimim-lesson2\\SocialNetwork\\ProfileList.h",
+              "RelativeToolTip": "ProfileList.h",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAC4AAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-29T20:11:02.151Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SocialNetwork.cpp",
+              "DocumentMoniker": "C:\\Users\\Cyber_User\\Documents\\magshimim\\Grade11\\Programing C\u002B\u002B\\lesson2\\Magshimim-lesson2\\SocialNetwork\\SocialNetwork.cpp",
+              "RelativeDocumentMoniker": "SocialNetwork.cpp",
+              "ToolTip": "C:\\Users\\Cyber_User\\Documents\\magshimim\\Grade11\\Programing C\u002B\u002B\\lesson2\\Magshimim-lesson2\\SocialNetwork\\SocialNetwork.cpp",
+              "RelativeToolTip": "SocialNetwork.cpp",
+              "ViewState": "AQIAACQAAAAAAAAAAAAuwCoAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-29T20:09:27.726Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SocialNetwork.h",
+              "DocumentMoniker": "C:\\Users\\Cyber_User\\Documents\\magshimim\\Grade11\\Programing C\u002B\u002B\\lesson2\\Magshimim-lesson2\\SocialNetwork\\SocialNetwork.h",
+              "RelativeDocumentMoniker": "SocialNetwork.h",
+              "ToolTip": "C:\\Users\\Cyber_User\\Documents\\magshimim\\Grade11\\Programing C\u002B\u002B\\lesson2\\Magshimim-lesson2\\SocialNetwork\\SocialNetwork.h",
+              "RelativeToolTip": "SocialNetwork.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-29T20:09:11.871Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "Profile.h",
               "DocumentMoniker": "C:\\Users\\Cyber_User\\Documents\\magshimim\\Grade11\\Programing C\u002B\u002B\\lesson2\\Magshimim-lesson2\\SocialNetwork\\Profile.h",
               "RelativeDocumentMoniker": "Profile.h",
               "ToolTip": "C:\\Users\\Cyber_User\\Documents\\magshimim\\Grade11\\Programing C\u002B\u002B\\lesson2\\Magshimim-lesson2\\SocialNetwork\\Profile.h",
               "RelativeToolTip": "Profile.h",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAAABYAAAAJAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2024-11-29T18:19:33.578Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "Profile.cpp",
               "DocumentMoniker": "C:\\Users\\Cyber_User\\Documents\\magshimim\\Grade11\\Programing C\u002B\u002B\\lesson2\\Magshimim-lesson2\\SocialNetwork\\Profile.cpp",
               "RelativeDocumentMoniker": "Profile.cpp",
               "ToolTip": "C:\\Users\\Cyber_User\\Documents\\magshimim\\Grade11\\Programing C\u002B\u002B\\lesson2\\Magshimim-lesson2\\SocialNetwork\\Profile.cpp",
               "RelativeToolTip": "Profile.cpp",
-              "ViewState": "AQIAACQAAAAAAAAAAAAAACkAAABoAAAA",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAADEAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-11-29T18:19:02.724Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 15,
               "Title": "UserList.cpp",
               "DocumentMoniker": "C:\\Users\\Cyber_User\\Documents\\magshimim\\Grade11\\Programing C\u002B\u002B\\lesson2\\Magshimim-lesson2\\SocialNetwork\\UserList.cpp",
               "RelativeDocumentMoniker": "UserList.cpp",
@@ -100,12 +168,11 @@
               "RelativeToolTip": "UserList.cpp",
               "ViewState": "AQIAAEAAAAAAAAAAAAAAADoAAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-11-29T18:15:04.254Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-29T18:15:04.254Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "UserList.h",
               "DocumentMoniker": "C:\\Users\\Cyber_User\\Documents\\magshimim\\Grade11\\Programing C\u002B\u002B\\lesson2\\Magshimim-lesson2\\SocialNetwork\\UserList.h",
               "RelativeDocumentMoniker": "UserList.h",
@@ -118,7 +185,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 16,
               "Title": "Page.h",
               "DocumentMoniker": "C:\\Users\\Cyber_User\\Documents\\magshimim\\Grade11\\Programing C\u002B\u002B\\lesson2\\Magshimim-lesson2\\SocialNetwork\\Page.h",
               "RelativeDocumentMoniker": "Page.h",
@@ -126,38 +193,37 @@
               "RelativeToolTip": "Page.h",
               "ViewState": "AQIAAAMAAAAAAAAAAAAAAA4AAAAUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-11-29T17:58:55.758Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-29T17:58:55.758Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 12,
               "Title": "Page.cpp",
               "DocumentMoniker": "C:\\Users\\Cyber_User\\Documents\\magshimim\\Grade11\\Programing C\u002B\u002B\\lesson2\\Magshimim-lesson2\\SocialNetwork\\Page.cpp",
               "RelativeDocumentMoniker": "Page.cpp",
               "ToolTip": "C:\\Users\\Cyber_User\\Documents\\magshimim\\Grade11\\Programing C\u002B\u002B\\lesson2\\Magshimim-lesson2\\SocialNetwork\\Page.cpp",
               "RelativeToolTip": "Page.cpp",
-              "ViewState": "AQIAABIAAAAAAAAAAAAAACEAAAAvAAAA",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAAA8AAAAjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-11-29T17:58:35.191Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 7,
               "Title": "DeviceList.cpp",
               "DocumentMoniker": "C:\\Users\\Cyber_User\\Documents\\magshimim\\Grade11\\Programing C\u002B\u002B\\lesson2\\Magshimim-lesson2\\SocialNetwork\\DeviceList.cpp",
               "RelativeDocumentMoniker": "DeviceList.cpp",
               "ToolTip": "C:\\Users\\Cyber_User\\Documents\\magshimim\\Grade11\\Programing C\u002B\u002B\\lesson2\\Magshimim-lesson2\\SocialNetwork\\DeviceList.cpp",
               "RelativeToolTip": "DeviceList.cpp",
-              "ViewState": "AQIAAEMAAAAAAAAAAAAAAEoAAAAAAAAA",
+              "ViewState": "AQIAAE4AAAAAAAAAAAAAAEoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-11-29T15:31:32.149Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 11,
               "Title": "DeviceList.h",
               "DocumentMoniker": "C:\\Users\\Cyber_User\\Documents\\magshimim\\Grade11\\Programing C\u002B\u002B\\lesson2\\Magshimim-lesson2\\SocialNetwork\\DeviceList.h",
               "RelativeDocumentMoniker": "DeviceList.h",
@@ -170,7 +236,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 14,
               "Title": "User.cpp",
               "DocumentMoniker": "C:\\Users\\Cyber_User\\Documents\\magshimim\\Grade11\\Programing C\u002B\u002B\\lesson2\\Magshimim-lesson2\\SocialNetwork\\User.cpp",
               "RelativeDocumentMoniker": "User.cpp",
@@ -178,12 +244,11 @@
               "RelativeToolTip": "User.cpp",
               "ViewState": "AQIAABIAAAAAAAAAAAAAADEAAAAtAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-11-29T15:30:47.067Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-29T15:30:47.067Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 13,
               "Title": "User.h",
               "DocumentMoniker": "C:\\Users\\Cyber_User\\Documents\\magshimim\\Grade11\\Programing C\u002B\u002B\\lesson2\\Magshimim-lesson2\\SocialNetwork\\User.h",
               "RelativeDocumentMoniker": "User.h",
@@ -191,44 +256,43 @@
               "RelativeToolTip": "User.h",
               "ViewState": "AQIAAAUAAAAAAAAAAAAQwA8AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-11-29T15:30:33.973Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-29T15:30:33.973Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 10,
               "Title": "Device.cpp",
               "DocumentMoniker": "C:\\Users\\Cyber_User\\Documents\\magshimim\\Grade11\\Programing C\u002B\u002B\\lesson2\\Magshimim-lesson2\\SocialNetwork\\Device.cpp",
               "RelativeDocumentMoniker": "Device.cpp",
               "ToolTip": "C:\\Users\\Cyber_User\\Documents\\magshimim\\Grade11\\Programing C\u002B\u002B\\lesson2\\Magshimim-lesson2\\SocialNetwork\\Device.cpp",
               "RelativeToolTip": "Device.cpp",
-              "ViewState": "AQIAAB8AAAAAAAAAAAAAABsAAAAXAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABsAAAAXAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-11-29T14:07:33.811Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 2,
               "Title": "Device.h",
               "DocumentMoniker": "C:\\Users\\Cyber_User\\Documents\\magshimim\\Grade11\\Programing C\u002B\u002B\\lesson2\\Magshimim-lesson2\\SocialNetwork\\Device.h",
               "RelativeDocumentMoniker": "Device.h",
               "ToolTip": "C:\\Users\\Cyber_User\\Documents\\magshimim\\Grade11\\Programing C\u002B\u002B\\lesson2\\Magshimim-lesson2\\SocialNetwork\\Device.h",
               "RelativeToolTip": "Device.h",
-              "ViewState": "AQIAABcAAAAAAAAAAAAAABcAAAABAAAA",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAAA4AAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2024-11-29T13:57:33.975Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "test3Profile.cpp",
               "DocumentMoniker": "C:\\Users\\Cyber_User\\Documents\\magshimim\\Grade11\\Programing C\u002B\u002B\\lesson2\\Magshimim-lesson2\\SocialNetwork\\test3Profile.cpp",
               "RelativeDocumentMoniker": "test3Profile.cpp",
               "ToolTip": "C:\\Users\\Cyber_User\\Documents\\magshimim\\Grade11\\Programing C\u002B\u002B\\lesson2\\Magshimim-lesson2\\SocialNetwork\\test3Profile.cpp",
               "RelativeToolTip": "test3Profile.cpp",
-              "ViewState": "AQIAACkBAAAAAAAAAAAAADMCAAABAAAA",
+              "ViewState": "AQIAACYEAAAAAAAAAAAwwDgEAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-11-29T13:56:35.046Z",
               "EditorCaption": ""
