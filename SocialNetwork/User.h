@@ -4,11 +4,6 @@
 
 class User
 {
-private:
-	unsigned int _id;
-	unsigned int _age;
-	std::string _username;
-	DevicesList* _devicelist;
 public:
 	void init(unsigned int id, std::string username, unsigned int age);
 	void clear();
@@ -18,4 +13,10 @@ public:
 	DevicesList& getDevices() const;
 	bool checkIfDevicesAreOn() const;
 	void addDevice(const Device& newDevice);
+
+private:
+	unsigned int _id;
+	unsigned int _age;
+	std::string _username;
+	DevicesList* _devicelist;
 };
